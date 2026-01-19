@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/georgina-odusanya-ba6892380/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://portfolio-ubc8.vercel.app/">
+  <a href="https://portfolio-ubc8.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
